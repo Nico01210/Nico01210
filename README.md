@@ -20,6 +20,8 @@ Un jeu du Démineur que j'ai codé en utilisant **p5.js**. Le jeu est accessible
 
 - [Lien vers le jeu du Démineur en ligne](https://nico01210.github.io/Demineur/)
 
+### 🎲 [jeu de l'oie]
+
 ### 💻 [Projet de développement web](En cours)
 
 Un projet où j'ai créé un site web dynamique avec **HTML**, **CSS**, et **JavaScript**. Ce projet explore des concepts comme le **DOM**, **l'interactivité**, et les **API**.
