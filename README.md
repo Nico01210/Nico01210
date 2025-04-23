@@ -20,7 +20,11 @@ Un jeu du Démineur que j'ai codé en utilisant **p5.js**. Le jeu est accessible
 
 - [Lien vers le jeu du Démineur en ligne](https://nico01210.github.io/Demineur/)
 
-### 🎲 [jeu de l'oie]
+### 🎲 [jeu de l'oie](https://nico01210.github.io/jeu_de_loie/)
+
+Un jeu de l'oie que j'ai codé en utilisant "p5.js". Le jeu est accessible en ligne via Github Pages. Clique sur le lien pour y jouer !
+
+- - [Lien vers le jeu du Démineur en ligne](https://nico01210.github.io/jeu_de_loie/)
 
 ### 💻 [Projet de développement web](En cours)
 
