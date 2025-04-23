@@ -33,7 +33,7 @@ Un projet où j'ai créé un site web dynamique avec **HTML**, **CSS**, et **Jav
 ## Comment me contacter
 
 - 📧 **Email** : nicolas.perret@le-campus-numerique.fr
-- 🔗 **LinkedIn** : [linkedin.com/in/nico01210](https://www.linkedin.com/in/nicolas-perret-215805358/)
+- 🔗 **LinkedIn** : [linkedin.com/NicolasPerret](https://www.linkedin.com/in/nicolas-perret-215805358/)
 - 🌐 **Portfolio** : [monportfolio.com](https://monportfolio.com)
 
 ## Contribuer
