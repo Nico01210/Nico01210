@@ -53,3 +53,7 @@ Si tu souhaites contribuer à l'un de mes projets, n'hésite pas à forker le d�
 Tous mes projets sont sous la **licence MIT**, à moins d'indication contraire dans le fichier de licence du projet.
 
 Merci d'avoir visité mon profil GitHub ! 😊
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nico01210&show_icons=true&locale=en&layout=compact" alt="nico01210" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nico01210&show_icons=true&locale=en" alt="nico01210" /></p>
