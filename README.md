@@ -44,7 +44,7 @@ Le site est accessible en ligne. Clique sur le lien pour y jouer !
 
 - 📧 **Email** : nicolas.perret@le-campus-numerique.fr
 - 🔗 **LinkedIn** : [linkedin.com/NicolasPerret](https://www.linkedin.com/in/nicolas-perret-215805358/)
-- 🌐 **Portfolio** : [monportfolio.com](https://monportfolio.com)
+- 🌐 **Portfolio** : [monportfolio.com](https://nicolas-perret.com)
 
 ## Contribuer
 
