@@ -26,7 +26,7 @@ Un jeu de l'oie que j'ai codé en utilisant "p5.js". Le jeu est accessible en li
 
 -  [Lien vers le jeu de l'oie en ligne](https://nico01210.github.io/jeu_de_loie/)
 
-### 💻 [Projet de développement web](En cours)
+### 💻 [Projet de développement web](https://nicolas-perret.com)
 
 Un projet où j'ai créé un site web dynamique avec **HTML**, **CSS**, et **JavaScript**. Ce projet explore des concepts comme le **DOM**, **l'interactivité**, et les **API**.
 
