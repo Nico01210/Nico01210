@@ -30,7 +30,20 @@ Un jeu de l'oie que j'ai codé en utilisant "p5.js". Le jeu est accessible en li
 
 Un projet où j'ai créé un site web dynamique avec **HTML**, **CSS**, et **JavaScript**. Ce projet explore des concepts comme le **DOM**, **l'interactivité**, et les **API**.
 Le site est accessible en ligne. Clique sur le lien pour y jouer !
+
 -  [Lien vers le site web](https://nicolas.perret.com)
+
+### 4️⃣ [Jeu du Devine le Nombre](https://github.com/Nico01210/GuessNumber)
+
+Le jeu génère un nombre aléatoire dans une plage définie (par exemple entre 1 et 100). Le joueur doit essayer de deviner ce nombre en entrant ses propositions. À chaque essai, le jeu indique si la proposition est trop haute, trop basse, ou correcte. Le jeu continue jusqu’à ce que le joueur trouve le bon nombre.
+
+- [Lien vers le Jeu}(https://github.com/Nico01210/GuessNumber)
+
+### 🍕 [Site de partage de recettes](https://github.com/Nico01210/partage_recettes)
+
+Un projet qui allie mon ancien parcours à mon nouveau. Un site web dynamique avec **PHP** qui vous propose de partager des recettes de cuisine, en ajouter ou supprimer, les commenter et les noter. Ce projet est composé d'un site, d'une base de donnée et d'un système de connexion pour l'utilisateur.
+-   [Lien vers le site de partage de recettes](https://github.com/Nico01210/partage_recettes)
+
 
 ## Compétences
 
