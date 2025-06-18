@@ -37,7 +37,7 @@ Le site est accessible en ligne. Clique sur le lien pour y jouer !
 
 Le jeu génère un nombre aléatoire dans une plage définie (par exemple entre 1 et 100). Le joueur doit essayer de deviner ce nombre en entrant ses propositions. À chaque essai, le jeu indique si la proposition est trop haute, trop basse, ou correcte. Le jeu continue jusqu’à ce que le joueur trouve le bon nombre.
 
-- [Lien vers le Jeu}(https://github.com/Nico01210/GuessNumber)
+- [Lien vers le Jeu](https://github.com/Nico01210/GuessNumber)
 
 ### 🍕 [Site de partage de recettes](https://github.com/Nico01210/partage_recettes)
 
