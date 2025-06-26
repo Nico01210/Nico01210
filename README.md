@@ -44,6 +44,13 @@ Le jeu génère un nombre aléatoire dans une plage définie (par exemple entre 
 Un projet qui allie mon ancien parcours à mon nouveau. Un site web dynamique avec **PHP** qui vous propose de partager des recettes de cuisine, en ajouter ou supprimer, les commenter et les noter. Ce projet est composé d'un site, d'une base de donnée et d'un système de connexion pour l'utilisateur.
 -   [Lien vers le site de partage de recettes](https://github.com/Nico01210/partage_recettes)
 
+ 
+ ### ⌨️ [Application d'entraînement](https://nico01210.github.io/TypeMaster)
+
+**TypeMaster** est une application web développée en **JavaScript** qui permet de s'entraîner à taper plus rapidement au clavier. Elle propose un système de score, et permet de **partager ses résultats** avec ses amis pour plus de fun et de compétition !
+
+-   [Lien vers l'application d'entraînement](https://github.com/Nico01210/TypeMaster)
+
 
 ## Compétences
 
