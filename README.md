@@ -33,6 +33,29 @@ Le site est accessible en ligne. Clique sur le lien pour y jouer !
 
 -  [Lien vers le site web](https://nicolas.perret.com)
 
+### 🛍️ [Site E-commerce en équipe](https://www.nico-dev.fr)
+Un projet d’équipe complet : nous avons commencé par une maquette Figma, validé un prototype, puis développé une boutique en ligne fonctionnelle avec les technologies web modernes.
+
+Fonctionnalités clés :
+
+🔹 Base de données dynamique avec gestion des produits,
+
+🔹 Système de panier pour commander,
+
+🔹 Authentification des utilisateurs,
+
+🔹 Interface administrateur (Backoffice) pour la gestion (CRUD complet),
+
+🔹 Architecture MVC propre et maintenable,
+
+🔹 Sécurisation du site avec CertBot (HTTPS),
+
+🔹 Interface responsive, adaptée aux mobiles,
+
+🔹 Déploiement sur un serveur privé avec nom de domaine personnalisé.
+
+- [Lien vers le site web](https://www.nico-dev.fr)
+
 ### 4️⃣ [Jeu du Devine le Nombre](https://github.com/Nico01210/GuessNumber)
 
 Le jeu génère un nombre aléatoire dans une plage définie (par exemple entre 1 et 100). Le joueur doit essayer de deviner ce nombre en entrant ses propositions. À chaque essai, le jeu indique si la proposition est trop haute, trop basse, ou correcte. Le jeu continue jusqu’à ce que le joueur trouve le bon nombre.
