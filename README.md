@@ -29,6 +29,8 @@ Fonctionnalités clés :
 
 🔹 Interface intuitive et responsive, adaptée aux mobiles et tablettes.
 
+🔹Traduction complète du site en français et en anglais
+
 -   [Lien vers le site Bun'Deal](https://nico01210.github.io/Bun_Deal/)
 
 
