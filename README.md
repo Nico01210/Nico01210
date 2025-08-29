@@ -26,14 +26,14 @@ Un jeu de l'oie que j'ai codé en utilisant "p5.js". Le jeu est accessible en li
 
 -  [Lien vers le jeu de l'oie en ligne](https://nico01210.github.io/jeu_de_loie/)
 
-### 💻 [Projet de développement web](https://nicolas-perret.com)
+### 💻 [Portfolio / Site perso](https://nicolas-perret.com)
 
 Un projet où j'ai créé un site web dynamique avec **HTML**, **CSS**, et **JavaScript**. Ce projet explore des concepts comme le **DOM**, **l'interactivité**, et les **API**.
 Le site est accessible en ligne. Clique sur le lien pour y jouer !
 
 -  [Lien vers le site web](https://nicolas.perret.com)
 
-### 🛍️ [Site E-commerce en équipe](https://www.nico-dev.fr)
+### 🛍️ [Site E-commerce de revente de jeux](https://www.nico-dev.fr)
 Un projet d’équipe complet : nous avons commencé par une maquette Figma, validé un prototype, puis développé une boutique en ligne fonctionnelle avec les technologies web modernes.
 
 Fonctionnalités clés :
@@ -74,6 +74,12 @@ Un projet qui allie mon ancien parcours à mon nouveau. Un site web dynamique av
 
 -   [Lien vers l'application d'entraînement](https://github.com/Nico01210/TypeMaster)
 
+## 🍔 [BUN'DEAL](https://nico01210.github.io/Bun_Deal/)
+
+Un site e-commerce fictif pour un snack inventé, développé avec HTML, CSS et JavaScript.
+Le site permet de parcourir le menu, consulter les prestations disponibles et passer des commandes fictives. L’interface est simple, intuitive et responsive, pensée pour offrir une expérience fluide sur tout type d’appareil.
+
+[Lien vers le site Bun'Deal en ligne](https://nico01210.github.io/Bun_Deal/)
 
 ## Compétences
 
