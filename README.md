@@ -14,17 +14,23 @@ Je suis passionné par la **programmation**, et j'aime explorer de nouvelles tec
 
 Voici quelques-uns des projets que tu trouveras sur mon profil GitHub :
 
-### 🎮 [Jeu du Démineur](https://nico01210.github.io/Demineur/)
+### 🍔 [BUN'DEAL](https://nico01210.github.io/Bun_Deal/)
 
-Un jeu du Démineur que j'ai codé en utilisant **p5.js**. Le jeu est accessible en ligne via GitHub Pages. Clique sur le lien pour y jouer !
+Un site e-commerce fictif pour un snack inventé, développé avec HTML, CSS et JavaScript.
+Il permet de consulter le menu, découvrir les prestations disponibles et passer des commandes fictives, le tout dans une interface simple et responsive.
 
-- [Lien vers le jeu du Démineur en ligne](https://nico01210.github.io/Demineur/)
+Fonctionnalités clés :
 
-### 🎲 [jeu de l'oie](https://nico01210.github.io/jeu_de_loie/)
+🔹 Parcourir le menu du snack Bun’Deal,
 
-Un jeu de l'oie que j'ai codé en utilisant "p5.js". Le jeu est accessible en ligne via Github Pages. Clique sur le lien pour y jouer !
+🔹 Consulter les prestations proposées,
 
--  [Lien vers le jeu de l'oie en ligne](https://nico01210.github.io/jeu_de_loie/)
+🔹 Passer des commandes fictives en ligne,
+
+🔹 Interface intuitive et responsive, adaptée aux mobiles et tablettes.
+
+-   [Lien vers le site Bun'Deal](https://nico01210.github.io/Bun_Deal/)
+
 
 ### 💻 [Portfolio / Site perso](https://nicolas-perret.com)
 
@@ -32,6 +38,7 @@ Un projet où j'ai créé un site web dynamique avec **HTML**, **CSS**, et **Jav
 Le site est accessible en ligne. Clique sur le lien pour y jouer !
 
 -  [Lien vers le site web](https://nicolas.perret.com)
+
 
 ### 🛍️ [Site E-commerce de revente de jeux](https://www.nico-dev.fr)
 Un projet d’équipe complet : nous avons commencé par une maquette Figma, validé un prototype, puis développé une boutique en ligne fonctionnelle avec les technologies web modernes.
@@ -56,30 +63,42 @@ Fonctionnalités clés :
 
 - [Lien vers le site web](https://www.nico-dev.fr)
 
-### 4️⃣ [Jeu du Devine le Nombre](https://github.com/Nico01210/GuessNumber)
 
-Le jeu génère un nombre aléatoire dans une plage définie (par exemple entre 1 et 100). Le joueur doit essayer de deviner ce nombre en entrant ses propositions. À chaque essai, le jeu indique si la proposition est trop haute, trop basse, ou correcte. Le jeu continue jusqu’à ce que le joueur trouve le bon nombre.
+### ⌨️ [Application d'entraînement](https://nico01210.github.io/TypeMaster)
 
-- [Lien vers le Jeu](https://github.com/Nico01210/GuessNumber)
+**TypeMaster** est une application web développée en **JavaScript** qui permet de s'entraîner à taper plus rapidement au clavier. Elle propose un système de score, et permet de **partager ses résultats** avec ses amis pour plus de fun et de compétition !
+
+-   [Lien vers l'application d'entraînement](https://github.com/Nico01210/TypeMaster)
+
 
 ### 🍕 [Site de partage de recettes](https://github.com/Nico01210/partage_recettes)
 
 Un projet qui allie mon ancien parcours à mon nouveau. Un site web dynamique avec **PHP** qui vous propose de partager des recettes de cuisine, en ajouter ou supprimer, les commenter et les noter. Ce projet est composé d'un site, d'une base de donnée et d'un système de connexion pour l'utilisateur.
 -   [Lien vers le site de partage de recettes](https://github.com/Nico01210/partage_recettes)
 
- 
- ### ⌨️ [Application d'entraînement](https://nico01210.github.io/TypeMaster)
 
-**TypeMaster** est une application web développée en **JavaScript** qui permet de s'entraîner à taper plus rapidement au clavier. Elle propose un système de score, et permet de **partager ses résultats** avec ses amis pour plus de fun et de compétition !
+### 4️⃣ [Jeu du Devine le Nombre](https://github.com/Nico01210/GuessNumber)
 
--   [Lien vers l'application d'entraînement](https://github.com/Nico01210/TypeMaster)
+Le jeu génère un nombre aléatoire dans une plage définie (par exemple entre 1 et 100). Le joueur doit essayer de deviner ce nombre en entrant ses propositions. À chaque essai, le jeu indique si la proposition est trop haute, trop basse, ou correcte. Le jeu continue jusqu’à ce que le joueur trouve le bon nombre.
 
-## 🍔 [BUN'DEAL](https://nico01210.github.io/Bun_Deal/)
+-   [Lien vers le Jeu](https://github.com/Nico01210/GuessNumber)
 
-Un site e-commerce fictif pour un snack inventé, développé avec HTML, CSS et JavaScript.
-Le site permet de parcourir le menu, consulter les prestations disponibles et passer des commandes fictives. L’interface est simple, intuitive et responsive, pensée pour offrir une expérience fluide sur tout type d’appareil.
 
-[Lien vers le site Bun'Deal en ligne](https://nico01210.github.io/Bun_Deal/)
+### 🎮 [Jeu du Démineur](https://nico01210.github.io/Demineur/)
+
+Un jeu du Démineur que j'ai codé en utilisant **p5.js**. Le jeu est accessible en ligne via GitHub Pages. Clique sur le lien pour y jouer !
+
+-   [Lien vers le jeu du Démineur en ligne](https://nico01210.github.io/Demineur/)
+
+
+### 🎲 [jeu de l'oie](https://nico01210.github.io/jeu_de_loie/)
+
+Un jeu de l'oie que j'ai codé en utilisant "p5.js". Le jeu est accessible en ligne via Github Pages. Clique sur le lien pour y jouer !
+
+-   [Lien vers le jeu de l'oie en ligne](https://nico01210.github.io/jeu_de_loie/)
+
+
+
 
 ## Compétences
 
