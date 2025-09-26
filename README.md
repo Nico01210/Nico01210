@@ -66,7 +66,7 @@ Fonctionnalités clés :
 - [Lien vers le site web](https://www.nico-dev.fr)
 
 
-### ⌨️ [Application d'entraînement](https://nico01210.github.io/TypeMaster)
+### ⌨️ [Application d'entraînement](https://nico01210.github.io/Type_Master)
 
 **TypeMaster** est une application web développée en **JavaScript** qui permet de s'entraîner à taper plus rapidement au clavier. Elle propose un système de score, et permet de **partager ses résultats** avec ses amis pour plus de fun et de compétition !
 
