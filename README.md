@@ -70,7 +70,7 @@ Fonctionnalités clés :
 
 **TypeMaster** est une application web développée en **JavaScript** qui permet de s'entraîner à taper plus rapidement au clavier. Elle propose un système de score, et permet de **partager ses résultats** avec ses amis pour plus de fun et de compétition !
 
--   [Lien vers l'application d'entraînement](https://github.com/Nico01210/TypeMaster)
+-   [Lien vers l'application d'entraînement](https://nico01210.github.io/Type_Master/)
 
 
 ### 🍕 [Site de partage de recettes](https://github.com/Nico01210/partage_recettes)
