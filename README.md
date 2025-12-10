@@ -42,7 +42,7 @@ Le site est accessible en ligne. Clique sur le lien pour y jouer !
 -  [Lien vers le site web](https://nicolas.perret.com)
 
 
-### 🛍️ [Site E-commerce de revente de jeux](https://www.nico-dev.fr)
+### 🛍️ [Site E-commerce de revente de jeux](https://github.com/Nico01210/Site_E-commerce_Laravel)
 Un projet d’équipe complet : nous avons commencé par une maquette Figma, validé un prototype, puis développé une boutique en ligne fonctionnelle avec les technologies web modernes.
 
 Fonctionnalités clés :
@@ -63,7 +63,7 @@ Fonctionnalités clés :
 
 🔹 Déploiement sur un serveur privé avec nom de domaine personnalisé.
 
-- [Lien vers le site web](https://www.nico-dev.fr)
+- [Lien vers le site web](https://github.com/Nico01210/Site_E-commerce_Laravel)
 
 ### 🚗 [Site pour Service VTC](https://vtcpremium.netlify.app/)
 
