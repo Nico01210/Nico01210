@@ -65,12 +65,21 @@ Fonctionnalités clés :
 
 - [Lien vers le site web](https://www.nico-dev.fr)
 
+### 🚗 [Site pour Service VTC](https://vtcpremium.netlify.app/)
 
-### ⌨️ [Application d'entraînement](https://nico01210.github.io/Type_Master)
+Ce projet est un site de VTC réalisé en HTML, CSS et JavaScript.
+Il permet aux utilisateurs de consulter les informations du chauffeur, les services proposés, ainsi que les tarifs.
+Le site inclut également une fonctionnalité de réservation en ligne, permettant aux clients de renseigner leur trajet et leurs coordonnées.
+Une section contact est disponible pour joindre directement le chauffeur et obtenir des informations supplémentaires ou un devis personnalisé.
 
-**TypeMaster** est une application web développée en **JavaScript** qui permet de s'entraîner à taper plus rapidement au clavier. Elle propose un système de score, et permet de **partager ses résultats** avec ses amis pour plus de fun et de compétition !
+-   [Lien vers le Site web](https://vtcpremium.netlify.app/)
 
--   [Lien vers l'application d'entraînement](https://nico01210.github.io/Type_Master/)
+
+### ⌨️ [Site vitrine](https://nico01210.github.io/Foie_gras_maison/)
+
+Un projet d'un site vitrine pour la production et revente d'un client produisant du Foie gras. Le site affiche des informations et les contacts pour d'éventuels commandes.
+
+-[lien vers le site web](https://nico01210.github.io/Foie_gras_maison/)
 
 
 ### 🍕 [Site de partage de recettes](https://github.com/Nico01210/partage_recettes)
@@ -79,25 +88,6 @@ Un projet qui allie mon ancien parcours à mon nouveau. Un site web dynamique av
 -   [Lien vers le site de partage de recettes](https://github.com/Nico01210/partage_recettes)
 
 
-### 4️⃣ [Jeu du Devine le Nombre](https://github.com/Nico01210/GuessNumber)
-
-Le jeu génère un nombre aléatoire dans une plage définie (par exemple entre 1 et 100). Le joueur doit essayer de deviner ce nombre en entrant ses propositions. À chaque essai, le jeu indique si la proposition est trop haute, trop basse, ou correcte. Le jeu continue jusqu’à ce que le joueur trouve le bon nombre.
-
--   [Lien vers le Jeu](https://github.com/Nico01210/GuessNumber)
-
-
-### 🎮 [Jeu du Démineur](https://nico01210.github.io/Demineur/)
-
-Un jeu du Démineur que j'ai codé en utilisant **p5.js**. Le jeu est accessible en ligne via GitHub Pages. Clique sur le lien pour y jouer !
-
--   [Lien vers le jeu du Démineur en ligne](https://nico01210.github.io/Demineur/)
-
-
-### 🎲 [jeu de l'oie](https://nico01210.github.io/jeu_de_loie/)
-
-Un jeu de l'oie que j'ai codé en utilisant "p5.js". Le jeu est accessible en ligne via Github Pages. Clique sur le lien pour y jouer !
-
--   [Lien vers le jeu de l'oie en ligne](https://nico01210.github.io/jeu_de_loie/)
 
 
 
