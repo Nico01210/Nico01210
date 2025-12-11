@@ -75,7 +75,7 @@ Une section contact est disponible pour joindre directement le chauffeur et obte
 -   [Lien vers le Site web](https://vtcpremium.netlify.app/)
 
 
-### ⌨️ [Site vitrine](https://nico01210.github.io/Foie_gras_maison/)
+### 🦆🍞 [Site vitrine](https://nico01210.github.io/Foie_gras_maison/)
 
 Un projet d'un site vitrine pour la production et revente d'un client produisant du Foie gras. Le site affiche des informations et les contacts pour d'éventuels commandes.
 
@@ -147,8 +147,8 @@ Si tu souhaites contribuer à l'un de mes projets, n'hésite pas à forker le d�
 
 Tous mes projets sont sous la **licence MIT**, à moins d'indication contraire dans le fichier de licence du projet.
 
+
+
 Merci d'avoir visité mon profil GitHub ! 😊
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nico01210&show_icons=true&locale=en&layout=compact" alt="nico01210" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nico01210&show_icons=true&locale=en" alt="nico01210" /></p>
